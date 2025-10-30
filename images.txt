@@ -1,2 +1,2 @@
-nginx:1.29.3-alpine
 nginx:1.29.2-alpine
+nginx:1.29.3-alpine
