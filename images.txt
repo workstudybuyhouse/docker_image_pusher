@@ -1,5 +1,1 @@
-busybox:1.37.0
-alpine:3.22.2
-prom/prometheus:v3.7.3
-grafana/grafana:12.2.1
-traefik:v3.6.0
+redis:8.4.0-alpine
